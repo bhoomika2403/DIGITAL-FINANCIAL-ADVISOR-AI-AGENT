@@ -35,7 +35,6 @@ iii)Senior citizens (Needing simple, scam-aware guidance on digital finance)
 iv)Low-income or underserved communities  (Who benefit from multilingual, accessible financial education)
 v)Non-tech-savvy individuals (Seeking easy-to-understand help with UPI, loans, and interest rates)
 vi)Self-employed or informal worker (Looking to manage personal finance without formal education)
-<img width="2058" height="517" alt="image" src="https://github.com/user-attachments/assets/aeac41f3-8eac-426c-ad98-834eb34c2ef7" />
 
 🌟 WOW Factors
 1)Trusted Financial Info Retrieval (RAG-based)
@@ -43,7 +42,6 @@ vi)Self-employed or informal worker (Looking to manage personal finance without 
 3)Real-time Fraud Detection & Prevention Tips
 4)Simple Guidance on UPI, EMIs, Budgeting
 5)Personalized Advice Based on User Needs
-<img width="1381" height="451" alt="image" src="https://github.com/user-attachments/assets/e11a4848-bbbc-44ae-9da9-340c15ba8376" />
 
 
 🖼️ Screenshots
@@ -79,20 +77,19 @@ Youtube video of deployment
  LINK: 
 
  🛣️ Future Scope
-1)Voice-Based Interaction
-2)Expanded Multilingual Support
-3)Integration with Government Schemes
-4)Gamified Learning Modules
-5)Behavioral Personalization
-6)Offline Functionality
-7)Advanced Financial Planning Tools
-8)Institutional Partnership
-<img width="1027" height="847" alt="image" src="https://github.com/user-attachments/assets/3e9945a6-0364-40d1-87f7-1a01f9f9a192" />
+1)Voice-Based Interaction /n
+2)Expanded Multilingual Support /n
+3)Integration with Government Schemes /n
+4)Gamified Learning Modules /n
+5)Behavioral Personalization /n
+6)Offline Functionality /n 
+7)Advanced Financial Planning Tools /n
+8)Institutional Partnership /n
 
 Useful Links
-IBM Cloud Lite (https://<cloud.ibm.com/registration)
-IBM Watsonx.ai  (https://www.ibm.com/products/watsonx-ai)
-IBM SkillsBuild  (https://skillsbuild.org/)
+IBM Cloud Lite    [link](https://<cloud.ibm.com/registration)
+IBM Watsonx.ai  [link](https://www.ibm.com/products/watsonx-ai)
+IBM SkillsBuild  [link](https://skillsbuild.org/)
 
 
    
