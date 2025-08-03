@@ -35,6 +35,113 @@ iii)IBM Cloud Lite Account
 
 iv) IBM Cloud Object Storage
 
+🚀 IBM Watsonx.ai Agent Lab – Build, Deploy & Test (Part-1)
+
+🧱 PART 1: Building the Agent
+
+✅ Step 1: Access Watsonx.ai
+Log into your IBM Cloud account.
+
+Click the three-dot menu (⋮) on the top left.
+
+Navigate to Watsonx > watsonx.ai.
+
+✅ Step 2: Navigate to Agent Lab
+On the watsonx.ai dashboard, click Gen AI.
+
+Under Gen AI, select Automating Tasks.
+
+Click Agent Lab to begin.
+
+✅ Step 3: Create a New Project
+Go back to watsonx.ai Homepage.
+
+Click Create New Project.
+
+Add Cloud Object Storage when prompted.
+
+Click Create.
+
+✅ Step 4: Build Your Chat Agent
+Inside the project:
+
+Select the Chat and Build option.
+
+Click Associate Service:
+
+Create a new service.
+
+Select watsonx.ai Runtime.
+
+Click Create.
+
+✅ Step 5: Model and Tool Selection
+Choose your Checklist, then:
+
+Click Associate Service again.
+
+Go to Chat and select:
+granite-3-8b-instruct
+
+Click View All, then choose Agent Lab.
+
+In Agent Lab:
+
+Add Instruction, Questions, etc.
+
+Click Select Tool.
+
+Select all tools except:
+
+❌ WebCrawler
+
+❌ Tavily Search
+
+❌ Python Interpreter
+
+❌ Document Search
+
+🧪 PART 2: Deployment and Testing
+✅ Step 1: Save Your Agent
+Click Save > Save as Agent.
+
+Then click Save as Standard Notebook.
+
+✅ Step 2: Deploy the Agent
+Click Deploy – a new window will appear.
+
+Click Create to begin deployment.
+
+Generate a new API Key.
+
+Click Reload.
+
+✅ Step 3: Create Deployment Space
+Create a new deployment name.
+
+Select watsonx.ai.
+
+Click Create.
+
+✅ Step 4: Final Deployment
+Navigate to Space.
+
+Click Deploy, then:
+
+Select the newly created Deployment Space name.
+
+Click Deploy.
+
+✅ Step 5: Run & Access API
+Click Deployment.
+
+Retrieve and use the API Key.
+
+Click Run to launch the deployed agent.
+
+✅ Done! 🎉
+Your Gen AI agent using IBM Watsonx.ai is now built, deployed, and ready to be tested via API
+
 
 👥 End Users
 
