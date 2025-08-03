@@ -51,6 +51,7 @@ v)Non-tech-savvy individuals (Seeking easy-to-understand help with UPI, loans, a
 vi)Self-employed or informal worker (Looking to manage personal finance without formal education)
 
 🌟 WOW Factors
+
 1)Trusted Financial Info Retrieval (RAG-based)
 
 2)Conversational, Multilingual Support (e.g., Hindi, Marathi)
@@ -114,6 +115,7 @@ Youtube video of deployment
 
 
 Useful Links
+
 IBM Cloud Lite (https://<cloud.ibm.com/registration)
 
 IBM Watsonx.ai  (https://www.ibm.com/products/watsonx-ai)
