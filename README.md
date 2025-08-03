@@ -18,38 +18,33 @@ TOOLS USED IBM WATSONX.AI and RAG
 
 
 🧠 Technologies Used
-IBM Watsonx.ai Studio
-IBM Granite Foundation Model (LLM0
-IBM Cloud Object Storage
+ i)IBM Watsonx.ai Studio
+ ii)IBM Granite Foundation Model (LLM)
+ iii) IBM Cloud Object Storage
 ☁️ IBM Cloud Services Used
-Watsonx.ai Studio
-IBM Granite Model
-IBM Cloud Lite Account
-IBM Cloud Object Storage
+i)Watsonx.ai Studio
+ii)IBM Granite Model
+iii)IBM Cloud Lite Account
+iv) IBM Cloud Object Storage
 
 
 👥 End Users
-First-time digital banking users (e.g., rural populations, elderly users new to UPI or online payments)
-Students and young adults ( Learning about budgeting, saving, and safe digital transactions)
-Senior citizens (Needing simple, scam-aware guidance on digital finance)
-Low-income or underserved communities  (Who benefit from multilingual, accessible financial education)
-Non-tech-savvy individuals (Seeking easy-to-understand help with UPI, loans, and interest rates)
-Self-employed or informal worker (Looking to manage personal finance without formal education)
+i)First-time digital banking users (e.g., rural populations, elderly users new to UPI or online payments)
+ii)Students and young adults ( Learning about budgeting, saving, and safe digital transactions)
+iii)Senior citizens (Needing simple, scam-aware guidance on digital finance)
+iv)Low-income or underserved communities  (Who benefit from multilingual, accessible financial education)
+v)Non-tech-savvy individuals (Seeking easy-to-understand help with UPI, loans, and interest rates)
+vi)Self-employed or informal worker (Looking to manage personal finance without formal education)
 <img width="2058" height="517" alt="image" src="https://github.com/user-attachments/assets/aeac41f3-8eac-426c-ad98-834eb34c2ef7" />
 
 🌟 WOW Factors
-Trusted Financial Info Retrieval (RAG-based)
-Conversational, Multilingual Support (e.g., Hindi, Marathi)
-Real-time Fraud Detection & Prevention Tips
-Simple Guidance on UPI, EMIs, Budgeting
-Personalized Advice Based on User Needs
+1)Trusted Financial Info Retrieval (RAG-based)
+2)Conversational, Multilingual Support (e.g., Hindi, Marathi)
+3)Real-time Fraud Detection & Prevention Tips
+4)Simple Guidance on UPI, EMIs, Budgeting
+5)Personalized Advice Based on User Needs
 <img width="1381" height="451" alt="image" src="https://github.com/user-attachments/assets/e11a4848-bbbc-44ae-9da9-340c15ba8376" />
 
-🚀 How It Works
-User inputs a query (e.g., “How to avoid UPI fraud?”)
-IBM Granite LLM processes the language
-Vector Index retrieves trusted content from uploaded financial PDFs
-Agent responds with a grounded, natural-language answer
 
 🖼️ Screenshots
 
@@ -84,20 +79,20 @@ Youtube video of deployment
  LINK: 
 
  🛣️ Future Scope
- Voice-Based Interaction
-Expanded Multilingual Support
-Integration with Government Schemes
-Gamified Learning Modules
-Behavioral Personalization
-Offline Functionality
-Advanced Financial Planning Tools
-Institutional Partnership
+1)Voice-Based Interaction
+2)Expanded Multilingual Support
+3)Integration with Government Schemes
+4)Gamified Learning Modules
+5)Behavioral Personalization
+6)Offline Functionality
+7)Advanced Financial Planning Tools
+8)Institutional Partnership
 <img width="1027" height="847" alt="image" src="https://github.com/user-attachments/assets/3e9945a6-0364-40d1-87f7-1a01f9f9a192" />
 
 Useful Links
-IBM Cloud Lite
-IBM Watsonx.ai
-IBM SkillsBuild
+IBM Cloud Lite (https://<cloud.ibm.com/registration)
+IBM Watsonx.ai  (https://www.ibm.com/products/watsonx-ai)
+IBM SkillsBuild  (https://skillsbuild.org/)
 
 
    
