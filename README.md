@@ -18,29 +18,47 @@ TOOLS USED IBM WATSONX.AI and RAG
 
 
 🧠 Technologies Used
+
  i)IBM Watsonx.ai Studio
+ 
  ii)IBM Granite Foundation Model (LLM)
+ 
  iii) IBM Cloud Object Storage
+ 
 ☁️ IBM Cloud Services Used
+
 i)Watsonx.ai Studio
+
 ii)IBM Granite Model
+
 iii)IBM Cloud Lite Account
+
 iv) IBM Cloud Object Storage
 
 
 👥 End Users
+
 i)First-time digital banking users (e.g., rural populations, elderly users new to UPI or online payments)
+
 ii)Students and young adults ( Learning about budgeting, saving, and safe digital transactions)
+
 iii)Senior citizens (Needing simple, scam-aware guidance on digital finance)
+
 iv)Low-income or underserved communities  (Who benefit from multilingual, accessible financial education)
+
 v)Non-tech-savvy individuals (Seeking easy-to-understand help with UPI, loans, and interest rates)
+
 vi)Self-employed or informal worker (Looking to manage personal finance without formal education)
 
 🌟 WOW Factors
 1)Trusted Financial Info Retrieval (RAG-based)
+
 2)Conversational, Multilingual Support (e.g., Hindi, Marathi)
+
 3)Real-time Fraud Detection & Prevention Tips
+
 4)Simple Guidance on UPI, EMIs, Budgeting
+
 5)Personalized Advice Based on User Needs
 
 
@@ -77,19 +95,30 @@ Youtube video of deployment
  LINK: 
 
  🛣️ Future Scope
-1)Voice-Based Interaction /n
-2)Expanded Multilingual Support /n
-3)Integration with Government Schemes /n
-4)Gamified Learning Modules /n
-5)Behavioral Personalization /n
-6)Offline Functionality /n 
-7)Advanced Financial Planning Tools /n
-8)Institutional Partnership /n
+ 
+1)Voice-Based Interaction 
+
+2)Expanded Multilingual Support 
+
+3)Integration with Government Schemes 
+
+4)Gamified Learning Modules 
+
+5)Behavioral Personalization 
+
+6)Offline Functionality 
+
+7)Advanced Financial Planning Tools 
+
+8)Institutional Partnership 
+
 
 Useful Links
-IBM Cloud Lite    [link](https://<cloud.ibm.com/registration)
-IBM Watsonx.ai  [link](https://www.ibm.com/products/watsonx-ai)
-IBM SkillsBuild  [link](https://skillsbuild.org/)
+IBM Cloud Lite (https://<cloud.ibm.com/registration)
+
+IBM Watsonx.ai  (https://www.ibm.com/products/watsonx-ai)
+
+IBM SkillsBuild  (https://skillsbuild.org/)
 
 
    
